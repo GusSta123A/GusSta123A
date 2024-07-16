@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GusSta123A
 - 👀 I’m interested in IOS Development & JAVA SpringBoot
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AI Based Davelopment & Cognitive Services
 - 💞️ I’m looking to collaborate on Web & Desktop Development, maybe with some IOS Projects
 - 📫 How to reach me, my email gusstavoandres123@hotmail.com
 
